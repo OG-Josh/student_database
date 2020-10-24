@@ -1,2 +1,2 @@
 # student_database
-Student: Josh Y
+Made by Josh Y
